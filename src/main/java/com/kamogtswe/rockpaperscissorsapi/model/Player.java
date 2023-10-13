@@ -3,8 +3,8 @@ package com.kamogtswe.rockpaperscissorsapi.model;
 import java.util.List;
 import java.util.Objects;
 
-import com.kamogtswe.rockpaperscissorsapi.Game;
 import com.kamogtswe.rockpaperscissorsapi.model.hands.Hand;
+import com.kamogtswe.rockpaperscissorsapi.service.Game;
 
 public class Player {
     
