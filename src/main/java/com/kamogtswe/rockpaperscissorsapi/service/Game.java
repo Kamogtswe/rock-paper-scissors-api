@@ -1,4 +1,4 @@
-package com.kamogtswe.rockpaperscissorsapi;
+package com.kamogtswe.rockpaperscissorsapi.service;
 
 import java.util.ArrayList;
 import java.util.List;
